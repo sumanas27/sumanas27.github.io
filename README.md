@@ -4,7 +4,7 @@
 
 I am Sumana Saha and a Software Engineer by profession. I am currently based in Berlin, Germany and originally from Kolkata, India.
 
-- 🔭 I’m currently working on Fintech Products @Ratepay GmbH(https://www.ratepay.com/)
+- 🔭 I’m currently working on Fintech Products [@Ratepay GmbH](https://www.ratepay.com/)
 - 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on Spring, JAVA topics, Microservices architechture
 - 🤔 I’m looking for help with Frontend technologies
